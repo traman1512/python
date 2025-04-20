@@ -1,2 +1,10 @@
-print(3+4)
-print(4+9)
+#print(3+4)
+#print(4+9)
+gasto=4
+donado=9
+item=10
+precio=2
+total_cuenta=gasto+donado
+print(total_cuenta)
+total_precio=item*precio
+print(total_precio)
