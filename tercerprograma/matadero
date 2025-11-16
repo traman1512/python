@@ -47,7 +47,7 @@
         <mxCell id="Jk2Yemgez98t-eG0c7ew-1" value="registra" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Jk2Yemgez98t-eG0c7ew-2" value="Datos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jk2Yemgez98t-eG0c7ew-2" value="Pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jk2Yemgez98t-eG0c7ew-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jk2Yemgez98t-eG0c7ew-1" target="Jk2Yemgez98t-eG0c7ew-2">
